@@ -1,2 +1,2 @@
-# Google-Professional-Cloud-Developer-Certification-Exam-Guide
-Google Professional Cloud Developer Certification Exam Guide, by BPB Publications
+# Google Professional Cloud Developer Exam Guide
+Google Professional Cloud Developer Exam Guide, by BPB Publications
